@@ -4,7 +4,7 @@
 **Challenges**                       | Source                             | Resolution        | Description
 ------------                     | -------------                      | ----------------  | --------------
 magnet_ctf19                     | [Link](https://www.hecfblog.com/2019/04/daily-blog-657-mus2019-dfir-ctf-open-to.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/magnet_ctf19.ipynb)|
-AH1-Web Server Case              | [Link](https://www.ashemery.com/dfir.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/AH1-Web_Server_Case.ipynb)|
+AH1-Web Server Case              | [Link](https://www.ashemery.com/dfir.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/AH1-Web_Server_Case.ipynb)| A company’s web server has been breached through their website. 
 AH2-User Policy Violation Case   | [Link](https://www.ashemery.com/dfir.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/AH2-User_Policy_Violation_Case.ipynb)|
 AH3-Mystery Hacked System        | [Link](https://www.ashemery.com/dfir.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/AH3-Mystery_Hacked_System.ipynb)|
 AH4-Launching Attacks from ADSs  | [Link](https://www.ashemery.com/dfir.html) | [Resolution](https://github.com/fmuinos/dfir_challenges/blob/main/AH4-Launching_Attacks_from_ADSs.ipynb)|
